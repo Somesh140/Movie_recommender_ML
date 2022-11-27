@@ -6,6 +6,7 @@ __pycache__/
 # C extensions
 *.so
 Data/
+.vscode/
 
 # Distribution / packaging
 .Python
@@ -128,3 +129,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+movie_list.pkl
+similarity.pkl
+*.pkl
