@@ -46,4 +46,4 @@ To get the movies poster you need tmdb apikey and movie_id send get request
 https://api.themoviedb.org/3/movie/{movie_id}?api_key=<<api_key>>&language=en-US
 ```
 
-![image.png](docs\herokuapp.png)
+![image](docs/herokuapp.png)
